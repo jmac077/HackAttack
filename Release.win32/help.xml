@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<helpmenu>
+	<category name="Utility Subsystems">
+		<node>
+			<image>shield.png</image>
+			<text>protects your virus from taking damage on the next 3 attacks</text>
+		</node>
+		<node>
+			<image>repair.png</image>
+			<text>restores 10 health at the end of the turn for the next 3 turns</text>
+		</node>
+		<node>
+			<image>corrupt.png</image>
+			<text>use on a defensive subsystem to cut its health in half</text>
+		</node>
+		<node>
+			<image>secvec.png</image>
+			<text>use on a defensive subsystem to damage it for 20 health at the end of each turn for the next 3 turns </text>
+		</node>
+	</category>
+	<category name="Defensive Subsystems">
+		<node>
+			<image>firewall.png</image>
+			<text>durable defensive subsystem has high hp but low atk</text>
+		</node>
+		<node>
+			<image>antivirus.png</image>
+			<text>dangerous defensive subsystem has high atk low hp</text>
+		</node>
+		<node>
+			<image>restoration.png</image>
+			<text>restores 10 health to any other node at the end of each turn</text>
+		</node>
+		<node>
+			<image>supressor.png</image>
+			<text>reduces the atk of your virus by 15 while it is active</text>
+		</node>
+	</category>
+</helpmenu>

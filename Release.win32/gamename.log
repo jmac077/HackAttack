@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj' does not exist.
+  gamename.vcxproj -> C:\path\to\game\here\gamename\proj.win32\Release.win32\gamename.exe
+  gamename.vcxproj -> C:\path\to\game\here\gamename\proj.win32\Release.win32\gamename.pdb (Full PDB)
+  0 File(s) copied
